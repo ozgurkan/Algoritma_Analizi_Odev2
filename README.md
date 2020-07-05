@@ -2,7 +2,7 @@
 
 # 2018-2019 Bahar Yarıyılı  Algoritma Analizi   Ödev – 2 
  
-Ders Yürütücüsü: Dr. Öğr. Üyesi M. Amaç GÜVENSAN 
+Ders Yürütücüsü: Dr. Öğr. Üyesi M. Amaç GÜVENSAN  
  
  
 # Konu : Hashing   
