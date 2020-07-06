@@ -1,4 +1,4 @@
-# Algoritma Analizi 2018-2019 Ödev2 14.04.2019 
+# Algoritma Analizi 2018-2019 Ödev2  14.04.2019 
 
 # 2018-2019 Bahar Yarıyılı  Algoritma Analizi   Ödev – 2 
  
